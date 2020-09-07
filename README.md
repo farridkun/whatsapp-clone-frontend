@@ -26,7 +26,7 @@ It's will running by default on port 3000
 
 You just hit/give me a stars for this repo & follow my Instagram [@Farrid_Jr] (https://instagram.com/farrid_jr).
 
-### This repo was inspire by Cleaver Programming.
+### This repo was inspire by Clever Programming.
 ### Using a MERN STACK Technologies.
 ----
 ### Disclaimer : This is using for learning purposes only, NEVER run it for commercials b'cause this features many chance for breaks the security.
